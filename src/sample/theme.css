@@ -1,0 +1,62 @@
+.pane{
+    -fx-background-color: #3f3f3f;
+}
+
+.facebook{
+    -fx-background-color: #3b5998;
+}
+
+.facebook:hover{
+    -fx-background-radius: 100%;
+}
+
+.twitter{
+    -fx-background-color: #00aced;
+}
+
+.twitter:hover{
+    -fx-background-radius: 100%;
+}
+
+.googlePlus{
+    -fx-background-color: #d34836;
+}
+
+.googlePlus:hover{
+    -fx-background-radius: 100%;
+
+}
+
+.linkedin{
+    -fx-background-color: #0077b5;
+}
+
+.linkedin:hover{
+    -fx-background-radius: 100%;
+
+}
+
+.instagram{
+    -fx-background-color:#537999;
+}
+
+.instagram:hover{
+    -fx-background-radius: 100%;
+}
+
+.pinterest{
+-fx-background-color: #cb2027;
+}
+
+.pinterest:hover{
+    -fx-background-radius: 100%;
+}
+
+.close{
+-fx-background-color: #545454;
+}
+
+.close:hover{
+    -fx-background-color: #696969;
+    -fx-background-radius: 100%;
+}
