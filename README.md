@@ -1,2 +1,2 @@
 # Social-Widget
-A simple widget
+A social widget created in JavaFX
